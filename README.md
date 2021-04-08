@@ -1,0 +1,2 @@
+# testeiniciante
+introdução as configurações 
